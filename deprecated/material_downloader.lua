@@ -1,5 +1,22 @@
--- deprecated
--- use https://github.com/Be1zebub/Small-GLua-Things/blob/master/libs/http-material.lua
+-- deprecated!
+-- use https://github.com/Be1zebub/Small-GLua-Things/blob/master/libs/http-material.lua instead!!!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- from gmod.one with <3
+-- https://github.com/Be1zebub/Small-GLua-Things/blob/master/deprecated/material_downloader.lua
 
 local file, Material, Fetch, find = file, Material, http.Fetch, string.find
 
